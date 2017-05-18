@@ -1,5 +1,3 @@
-Open cmd at location.
-
 npm install
 
 webpack
